@@ -3,7 +3,7 @@ Fits Greenshields traffic model to real traffic data with a new weighted algorit
 
 
 When fitting the Greansheilds relationship to real-data, one may suffer from the problem of insufficient data samples in the congested regime. 
-This code is implemented based on the approach proposed by Qu, X., Wang, S., & Zhang, J. (2015) https://www.sciencedirect.com/science/article/abs/pii/S0191261515000041. and solves this problem. 
+This code is implemented based on the approach proposed by [Qu, X., Wang, S., & Zhang, J. (2015)](https://www.sciencedirect.com/science/article/abs/pii/S0191261515000041.) and solves this problem. 
 
 An ilusteration of the outputs is given in the below (WLS is the fitted cureve with the Weighted Least Square and OLS is fitted by Ordinary Least Square algorithm):
 
